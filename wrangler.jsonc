@@ -29,9 +29,9 @@
   },
 	"workflows": [
 		{
-			"name": "w2",
+			"name": "workflows-starter",
 			"binding": "MY_WORKFLOW",
-			"class_name": "DemoWorkflow"
+			"class_name": "MyWorkflow"
 		}
 	]
 	/**
